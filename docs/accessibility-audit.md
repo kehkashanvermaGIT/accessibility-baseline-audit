@@ -106,13 +106,13 @@ The following screenshots were captured during the accessibility audit using Chr
 ### Evidence 1 — Buttons without accessible names
 
 Lighthouse identified buttons that do not have accessible names.
-
+![Lighthouse buttons without accessible names](screenshots/lighthouse-findings-1.png)
 **Screenshot:** Lighthouse "Buttons do not have an accessible name" finding.
 
 ### Evidence 2 — Images without `alt` attributes
 
 Lighthouse identified images that do not contain alternative text.
-
+![Lighthouse accessibility findings](screenshots/lighthouse-findings-2.png)
 **Screenshot:** Lighthouse "Image elements do not have `[alt]` attributes" finding.
 
 ### Evidence 3 — `aria-hidden="true"` with focusable descendants
